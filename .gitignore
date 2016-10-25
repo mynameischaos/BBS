@@ -1,0 +1,5 @@
+.project
+.classpath
+honey.iml
+env-config.properties
+/target/
